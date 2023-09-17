@@ -1,2 +1,2 @@
 # iMessage-websockets-chat
-Node.js iMessage replica chat app using websockets
+Node.js real time chat app using HTML, websockets, and iMessage style through CSS.
